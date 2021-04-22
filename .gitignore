@@ -1,0 +1,5 @@
+/node_modules
+/client
+/client/auth/auth.js
+/.vscode
+/client/.secret
